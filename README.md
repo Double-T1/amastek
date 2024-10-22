@@ -12,16 +12,17 @@
 3. 定單：與產品為多對多的關係，另衍生出貨單
 
 功能對照：
-設定員工帳號資訊： employee table
-設定產品資訊(編號和名稱)： product table
-新增訂單，輸入資料: 出貨日期、產品清單(包含產品編號和數量)： order table/ order_product table
-生產報工： production report table
-產出回報： output_report table
-訂單出貨： shipment table
-入庫： stock_in table
-出庫： stock_out table
-庫存狀態： inventory table
-每日產出： sum from output_report table
-訂單狀態： filter from order table
-<br>
-第三題回覆在 q3.sql<br>
+
+- 設定員工帳號資訊： employee table
+- 設定產品資訊(編號和名稱)： product table
+- 新增訂單，輸入資料: 出貨日期、產品清單(包含產品編號和數量)： order table/ order_product table
+- 生產報工： production report table
+- 產出回報： output_report table
+- 訂單出貨： shipment table
+- 入庫： stock_in table
+- 出庫： stock_out table
+- 庫存狀態： inventory table
+- 每日產出： sum from output_report table
+- 訂單狀態： filter from order table
+  <br>
+  第三題回覆在 q3.sql<br>
