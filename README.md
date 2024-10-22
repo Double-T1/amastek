@@ -3,8 +3,12 @@
 共三題<br>
 第一題回覆在 q1.cpp<br>
 第二題 ER diagram 截圖在 q2.png，另外[連結](https://dbdiagram.io/d/6717501397a66db9a3d16437)提供可操作 ER diagram
+另在以下簡述 ER diagram 內容。
+<br>
+第三題回覆在 q3.sql<br>
 
-簡單描述：
+
+Ｑ2 簡單描述：
 系統主要圍繞三個核心：員工、產品、訂單
 
 1. 員工：人員管理和生產報工各有一個表格，並依序輸入其資訊
@@ -24,5 +28,4 @@
 - 庫存狀態： inventory table
 - 每日產出： sum from output_report table
 - 訂單狀態： filter from order table
-  <br>
-  第三題回覆在 q3.sql<br>
+  
